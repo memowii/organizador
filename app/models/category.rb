@@ -9,5 +9,5 @@
 #  updated_at  :datetime         not null
 #
 class Category < ApplicationRecord
-  has_may :tasks
+  has_many :tasks
 end
