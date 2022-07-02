@@ -29,6 +29,7 @@ gem 'rails-i18n'
 gem 'devise'
 gem 'cocoon'
 gem 'cancancan'
+gem 'letter_opener'
 
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
