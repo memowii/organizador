@@ -29,6 +29,7 @@ gem 'rails-i18n'
 gem 'devise'
 gem 'cocoon'
 gem 'cancancan'
+gem 'font-awesome-sass', '~> 5.12.0'
 gem 'letter_opener'
 
 # Use Active Storage variant
